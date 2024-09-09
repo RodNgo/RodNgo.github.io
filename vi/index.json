@@ -67,7 +67,7 @@
 	"title": "Dọn dẹp tài nguyên  ",
 	"tags": [],
 	"description": "",
-	"content": "Chúng ta sẽ tiến hành các bước sau để xóa các tài nguyên chúng ta đã tạo trong bài thực hành này.\nXóa Elastic Beanstalk Application Truy cập giao diện quản trị dịch vụ Elastic Beanstalk. Click tab Aplication. Click chọn vào Application cần xóa CRUD_SpringBoot_Exercise. Click chọn Action click chọn Delete Action Xóa EC2 Key Pair và EC2 Instance Profile Truy cập giao diện EC2 Key Pair. Click chọn vào Key Pair cần xóa EC2_RODNGO. Click chọn Action click chọn Delete Truy cập giao diện quản trị dịch vụ IAM Click Roles. Click chọn vào các Roles cần xóa. Click Delete. "
+	"content": "Chúng ta sẽ tiến hành các bước sau để xóa các tài nguyên chúng ta đã tạo trong workshop này.\nXóa Elastic Beanstalk Application Truy cập giao diện quản trị dịch vụ Elastic Beanstalk. Click tab Aplication. Click chọn vào Application cần xóa CRUD_SpringBoot_Exercise. Click chọn Action click chọn Delete Action Xóa EC2 Key Pair và EC2 Instance Profile Truy cập giao diện EC2 Key Pair. Click chọn vào Key Pair cần xóa EC2_RODNGO. Click chọn Action click chọn Delete Truy cập giao diện quản trị dịch vụ IAM Click Roles. Click chọn vào các Roles cần xóa. Click Delete. "
 },
 {
 	"uri": "//localhost:1313/vi/3-accessibilitytoinstances/3.4-upload_deploy/",
